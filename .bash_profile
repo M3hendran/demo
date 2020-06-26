@@ -1,0 +1,1 @@
+alias notepad='notepad.exe --multiInst --nosession'
