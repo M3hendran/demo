@@ -1,0 +1,5 @@
+This is a sample4 file, created in github
+
+This file content modified in local repository
+
+Modified by branch2
