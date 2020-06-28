@@ -4,5 +4,5 @@ This file content modified in local repository
 <<<<<<< HEAD
 
 Modified by branch2
-=======
->>>>>>> cae191bcf8ef3e12411ec981c4ecf47ef1c3b4d8
+
+Modified in master branch
